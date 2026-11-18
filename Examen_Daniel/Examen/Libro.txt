@@ -1,0 +1,4 @@
+String titulo;
+String autor;
+String ISBN;
+Boolean prestado;
